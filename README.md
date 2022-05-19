@@ -2,7 +2,7 @@
 - 👀 I’m always interested in coding something new.
 - 🌱 I’m currently learning JavaScript, Node.js, Vue.js
 - 💞️ I’m looking to collaborate on some work that just help me growing my skills as I help the project also.
-- 📫 How to reach me https://www.linkedin.com/in/renan-tameir%C3%A3o-539b5a236/
+- 📫 How to reach me https://www.linkedin.com/in/renan-tameirao
 
 <!---
 RenanDeveloper/RenanDeveloper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
